@@ -1,0 +1,2 @@
+def kolory():
+    return blue
