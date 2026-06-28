@@ -1,0 +1,1 @@
+lista_osob = ["Julian Malinowski"]
