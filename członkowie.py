@@ -1,1 +1,1 @@
-lista_osob = ["Julian Malinowski", "Nela Poplawska"]
+lista_osob = ["Julian Malinowski", "Nela Poplawska", "Adrian Wnorowski"]
